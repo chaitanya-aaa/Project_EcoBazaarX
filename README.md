@@ -48,12 +48,12 @@ By integrating **role-based dashboards** and **analytics**, the platform empower
 - Install [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/).  
 - Install [MongoDB](https://www.mongodb.com/try/download/community) and run a local or cloud instance (MongoDB Atlas).  
 ## 7. Usage
-🏠 Landing Page – Overview of platform & navigation to Login/Signup.
-🔐 Authentication – Register & login as Customer, Seller, or Admin.
-📊 Dashboards –
-   Customer Dashboard: View footprint of purchases, track eco-impact.
-   Seller Dashboard: Manage store, add products, track sales & sustainability.
-   Admin Dashboard: Monitor system-wide performance, manage users & shops.
-💳 Checkout & Payment – Place orders, choose eco-friendly shipping, and pay securely.
+1. 🏠 Landing Page – Overview of platform & navigation to Login/Signup.
+2. 🔐 Authentication – Register & login as Customer, Seller, or Admin.
+3. 📊 Dashboards –
+   - Customer Dashboard: View footprint of purchases, track eco-impact.
+   - Seller Dashboard: Manage store, add products, track sales & sustainability.
+   - Admin Dashboard: Monitor system-wide performance, manage users & shops.
+4. Checkout & Payment – Place orders, choose eco-friendly shipping, and pay securely.
 ## 8. License
    This project is licensed under the MIT License – see the LICENSE file for details.
